@@ -9,11 +9,11 @@ alamatPelanggan varchar(50) not null,
 kodeposPelanggan char(10)not null);
 insert into pelanggan(idPelanggan, namaPelanggan, teleponPelanggan, emailPelanggan, alamatPelanggan, kodeposPelanggan)values
 ('144','Via Vindiana','087771129191','viaa@yahoo.com','Cilegon','42437'),
-('145','Mushthafa Aminur','081167852997','fafaaja@yahoo.com','BuahBatu','40287'),
-('143','Febia Farenti','081870783682','febia@yahoo.com','Cilegon','42431'), 
-('155','Raihan Rusjdy','085563548273','rusdyy@yahoo.com','BuahBatu','40287'),
-('156','Vivin Puspita','087775235438','vivinppt@yahoo.com','Cilegon','42422'),
-('157','Vicha Vitriana','087653423879','vichav@yahoo.com','Tanggerang','15138');
+('145','Muhammad Islam','081167852997','fafaaja@yahoo.com','BuahBatu','40287'),
+('143','Febi Fasya','081870783682','febia@yahoo.com','Cilegon','42431'), 
+('155','Raisa','085563548273','rusdyy@yahoo.com','BuahBatu','40287'),
+('156','Puspita Sari','087775235438','vivinppt@yahoo.com','Cilegon','42422'),
+('157','Anggun Permata','087653423879','vichav@yahoo.com','Tanggerang','15138');
 
 create table pembayaran(
 kodePembayaran char(10)primary key,
