@@ -135,7 +135,7 @@ PTpemasok varchar(15),
 teleponPemasok varchar(20)not null); 
 insert into pemasok(kodePemasok, PTpemasok, teleponPemasok)values
 ('SHT', 'PT.SEHAT', '15076'),
-('MNS', 'PT,MANIS', '14062'),
+('MNS', 'PT.MANIS', '14062'),
 ('LCN', 'PT.LICIN', '13082'),
 ('SGR', 'PT.SEGAR', '12072'),
 ('PDS', 'PT.PEDAS', '11087'),
