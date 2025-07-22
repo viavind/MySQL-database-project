@@ -10,7 +10,7 @@ kodeposPelanggan char(10)not null);
 insert into pelanggan(idPelanggan, namaPelanggan, teleponPelanggan, emailPelanggan, alamatPelanggan, kodeposPelanggan)values
 ('144','Via Vindiana','087771129191','viaa@yahoo.com','Cilegon','42437'),
 ('145','Mushthafa Aminur','081167852997','fafaaja@yahoo.com','BuahBatu','40287'),
-('143','Febia Farenti','081808708518','febia@yahoo.com','Cilegon','42431'), 
+('143','Febia Farenti','081870783682','febia@yahoo.com','Cilegon','42431'), 
 ('155','Raihan Rusjdy','085563548273','rusdyy@yahoo.com','BuahBatu','40287'),
 ('156','Vivin Puspita','087775235438','vivinppt@yahoo.com','Cilegon','42422'),
 ('157','Vicha Vitriana','087653423879','vichav@yahoo.com','Tanggerang','15138');
